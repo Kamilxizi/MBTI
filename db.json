@@ -1,0 +1,107 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "title": "INTJ-A / INTJ-T",
+      "image": "https://i.pinimg.com/474x/f2/05/4d/f2054d5c97339d9c16d9cdd66020decd.jpg",
+      "desc": "Rich in imagination, strategic thinkers with a plan for every situation."
+    },
+    {
+      "id": 2,
+      "title": "INTP-A / INTP-T",
+      "image": "https://i.pinimg.com/474x/fd/f3/bb/fdf3bbc358715d3d839f313fff30b3d1.jpg",
+      "desc": "Creative inventors, confident in their knowledge and insights."
+    },
+    {
+      "id": 3,
+      "title": "ENTJ-A / ENTJ-T",
+      "image": "https://i.pinimg.com/474x/00/68/9d/00689de4a8600281e47468d8f1df7a27.jpg",
+      "desc": "Brave, resourceful leaders who find or make a way."
+    },
+    {
+      "id": 4,
+      "title": "ENTP-A / ENTP-T",
+      "image": "https://i.pinimg.com/474x/0a/0f/98/0a0f9861bb91712225f7d8f683467582.jpg",
+      "desc": "Smart and curious thinkers who cannot resist an intellectual challenge."
+    },
+    {
+      "id": 5,
+      "title": "INFJ-A / INFJ-T",
+      "image": "https://i.pinimg.com/474x/43/92/76/439276ab1abfc5ac89bb06ce86aad049.jpg",
+      "desc": "Quiet and mystical, yet very inspiring and tireless idealists."
+    },
+    {
+      "id": 6,
+      "title": "INFP-A / INFP-T",
+      "image": "https://i.pinimg.com/474x/3f/79/f2/3f79f2e9cbb21929e6892acc35f19907.jpg",
+      "desc": "Poetic, kind, and altruistic people, always eager to help a good cause."
+    },
+    {
+      "id": 7,
+      "title": "ENFJ-A / ENFJ-T",
+      "image": "https://i.pinimg.com/564x/fa/89/71/fa897132e9505acb31041ad9dfe70863.jpg",
+      "desc": "Charismatic and inspiring leaders, able to mesmerize their listeners."
+    },
+    {
+      "id": 8,
+      "title": "ENFP-A / ENFP-T",
+      "image": "https://i.pinimg.com/564x/04/02/56/0402568bda5533d9f170e5e6a9cfbd39.jpg",
+      "desc": "Enthusiastic, creative, and sociable free spirits, who can always find a reason to smile."
+    },
+    {
+      "id": 9,
+      "title": "ISTJ-A / ISTJ-T",
+      "image": "https://i.pinimg.com/474x/d1/9a/8a/d19a8a581516a3bcb6888ae7572ba4a8.jpg",
+      "desc": "Practical and fact-minded individuals, whose reliability cannot be doubted."
+    },
+    {
+      "id": 10,
+      "title": "ISFJ-A / ISFJ-T",
+      "image": "https://i.pinimg.com/474x/90/4b/18/904b1891d10c2d13fdf3c4f70d5c6b9b.jpg",
+      "desc": "Very dedicated and warm protectors, always ready to defend their loved ones."
+    },
+    {
+      "id": 11,
+      "title": "ESTJ-A / ESTJ-T",
+      "image": "https://i.pinimg.com/474x/33/0f/33/330f3356726f9f147aba77e2592be99c.jpg",
+      "desc": "Excellent administrators, unsurpassed at managing things – or people."
+    },
+    {
+      "id": 12,
+      "title": "ESFJ-A / ESFJ-T",
+      "image": "https://i.pinimg.com/564x/d1/cd/5e/d1cd5e697e0c5b4265c32d7a2b7f54a4.jpg",
+      "desc": "Exceptionally caring, social, and popular people, always ready to help."
+    },
+    {
+      "id": 13,
+      "title": "ISTP-A / ISTP-T",
+      "image": "https://i.pinimg.com/474x/52/e8/ae/52e8ae1bdf8230493205ecde10d6aae5.jpg",
+      "desc": "Bold and practical experimenters, masters of all kinds of tools."
+    },
+    {
+      "id": 14,
+      "title": "ISFP-A / ISFP-T",
+      "image": "https://i.pinimg.com/474x/91/3b/1d/913b1d26fc288f43f893495a8ee87831.jpg",
+      "desc": "Flexible and charming artists, always ready to explore and experience something new."
+    },
+    {
+      "id": 15,
+      "title": "ESTP-A / ESTP-T",
+      "image": "https://i.pinimg.com/474x/7b/a6/48/7ba6484eddc79dd5a0a22d982376b2d7.jpg",
+      "desc": "Smart, energetic, and very perceptive people, who truly enjoy living on the edge."
+    },
+    {
+      "id": 16,
+      "title": "ESFP-A / ESFP-T",
+      "image": "https://i.pinimg.com/474x/e8/82/ab/e882aba5f1062dc49544e72d477136b9.jpg",
+      "desc": "Spontaneous, energetic, and enthusiastic entertainers – life is never boring around them."
+    },
+    {
+      "title": "intj",
+      "desc": "not bad person",
+      "image": "https://i.pinimg.com/474x/e7/28/69/e72869626473f682498fa78c0e317195.jpg",
+      "id": 17,
+      "description": "undefined"
+    }
+  ]
+}
